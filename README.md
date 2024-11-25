@@ -2,7 +2,7 @@
 
 To run:
 
-`/mvnw spring-boot:run` then navigate to `http://localhost:8080/`
+`./mvnw spring-boot:run` then navigate to `http://localhost:8080/`
 
 ### Reference Documentation
 For further reference, please consider the following sections:
